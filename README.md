@@ -58,3 +58,5 @@ Place assets like sound or images inside a `data` folder inside your `sketch` fo
 ***
 ###License & Copyright###
 (c) 2013 [Frederik Ring](http://www.frederikring.com) - Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Modifications for designer-friendly mobile prototyping by Andy Matuschak.
