@@ -2,7 +2,7 @@
 
 cd "$(dirname "$0")"
 
-if hash n2pm 2>/dev/null; then
+if hash npm 2>/dev/null; then
 	npm install
 	if [ $? -eq 0 ]; then
 		grunt
