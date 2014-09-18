@@ -11,8 +11,13 @@ You need to have **[node.js](http://nodejs.org)** (>=0.10.5) installed. A global
 ##Installation##
 Clone the repo using git (or download and unzip the repo inside a new folder):
 ```sh
-$ git clone git://github.com/m90/processing-boilerplate.git
+$ git clone git://github.com/khan/processing-boilerplate.git
 ```
+
+Right-click `start.command` and click Open to get started. Click Open in the scary security dialog.
+
+###The Long Way###
+
 Navigate to the repository's root and install all dependencies:
 ```sh
 $ npm install
