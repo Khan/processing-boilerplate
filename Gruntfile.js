@@ -28,7 +28,7 @@ module.exports = function(grunt) {
 		},
 		template: {
 			htmlfile: {
-				src: grunt.option('naked') ? 'res/templates/naked.html' : 'res/templates/index.html',
+				src: 'res/templates/naked.html',
 				dest: 'build/index.html',
 				engine: 'mustache',
 				variables: {
