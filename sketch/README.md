@@ -1,1 +1,0 @@
-This demo is taken from the University of London's **[Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/course/digitalmedia)** class.
